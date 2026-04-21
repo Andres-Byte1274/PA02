@@ -31,3 +31,4 @@ This will:
     rm .\mr-out-*
     rm .\intermediate-*-*
     rm .\mapreduce.exe
+    rm .\split-*
